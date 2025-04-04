@@ -1,4 +1,6 @@
-=============== 🤖 Advanced Chatbot Project ===============
+==============================
+🤖 Advanced Chatbot Project
+==============================
 
 This project is an intelligent chatbot built with Python and Hugging Face Transformers. It uses pre-trained NLP models to understand and answer user questions, delivering relevant responses based on a knowledge base and fine-tuned intent classification.
 
