@@ -13,6 +13,7 @@ from transformers import pipeline
 import requests
 import sqlite3
 
+# UNCOMMENT THIS BUT CCOMMENT IT BACK ONCE YOU'VE RUN THE ENTIRE CODE TO AVOID DOWNLOADING THE RESOURCES MORE THAN ONCE
 # Ensure NLTK resources are available
 # nltk.download('punkt')
 # nltk.download('wordnet')

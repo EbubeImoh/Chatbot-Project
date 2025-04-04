@@ -10,6 +10,7 @@ import torch.nn.functional as F
 import torch.optim as optim
 from torch.utils.data import DataLoader, TensorDataset
 
+# UNCOMMENT THIS BUT CCOMMENT IT BACK ONCE YOU'VE RUN THE ENTIRE CODE TO AVOID DOWNLOADING THE RESOURCES MORE THAN ONCE
 # Download required NLTK resources
 # nltk.download('punkt')
 # nltk.download('wordnet')
