@@ -1,4 +1,3 @@
-==============================
 🤖 Advanced Chatbot Project
 ==============================
 
@@ -8,6 +7,7 @@ This project is an intelligent chatbot built with Python and Hugging Face Transf
 📁 Project Structure
 -------------------------------------------------------------------------------
 
+```
 Chatbot Project/
 │
 ├── advanvcedChatbot.py       # Main chatbot script
@@ -16,6 +16,7 @@ Chatbot Project/
 ├── requirements.txt          # Python dependencies
 ├── SETUP.md                  # Setup instructions (alternative format)
 └── README.txt                # You're reading this file
+```
 
 -------------------------------------------------------------------------------
 ⚙️ Setup Instructions
@@ -143,5 +144,3 @@ GitHub: https://github.com/EbubeImoh
 -------------------------------------------------------------------------------
 
 This project is licensed under the MIT License.
-```
-
