@@ -1,0 +1,17 @@
+torch
+torchvision
+torchaudio
+nltk
+numpy
+pyttsx3
+requests
+beautifulsoup4
+spacy
+scikit-learn
+tqdm
+flask
+flask-cors
+transformers
+sentence-transformers
+openai
+speech_recognition
