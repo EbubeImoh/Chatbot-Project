@@ -145,6 +145,3 @@ GitHub: https://github.com/EbubeImoh
 This project is licensed under the MIT License.
 ```
 
----
-
-Would you like me to auto-generate the `requirements.txt` as well based on your current setup?
